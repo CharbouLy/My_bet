@@ -1,0 +1,42 @@
+.navbar{
+  background-color: #9E1946 !important;
+}
+.example3 .navbar-brand{
+  height: 80px;
+}
+.example3 .nav >li >a{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.example3 .navbar-toggle{
+  padding: 10px;
+  margin: 25px 15px 25px 0;
+}
+.example3 .nav >li >a{
+  color: #4D6CFA;
+}
+.navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+  background-color: #4D6CFA;
+}
+#logo{
+  width: 100px;
+  position: absolute;
+  top: 0;
+}
+#offre{
+  width: 40%;
+  margin: auto; 
+  margin-top: 90px;
+}
+.formu{
+  margin-left: 430px;
+  margin-top: 70px;
+}
+.text-muted{
+  margin-left: 443px;
+}
+hr{
+  height: 10px;
+  border: 0;
+  box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
